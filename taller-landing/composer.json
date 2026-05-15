@@ -1,8 +1,0 @@
-{
-  "name": "centrometabolico/taller-landing",
-  "description": "Landing del taller nutricional con integración Transbank Webpay Plus",
-  "require": {
-    "php": ">=7.4",
-    "transbank/transbank-sdk": "^3.0"
-  }
-}
